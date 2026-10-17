@@ -1,2 +1,2 @@
 # book-wrapped
-A spinoff of Spotify's Warpped 
+Spotify's Warpped remix
