@@ -1,2 +1,2 @@
 # book-wrapped
-Spotify's Warpped remix
+Spotify's Wrapped remix
